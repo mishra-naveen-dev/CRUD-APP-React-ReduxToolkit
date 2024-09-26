@@ -7,17 +7,17 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Rea
 /src
 │
 ├── /components
-│ ├── CreatePost.js # Component for creating new posts
-│ ├── Posts.js # Component for fetching, displaying, editing, and deleting posts
-│ ├── Spinner.js # Spinner component for loading states
+│ ├── CreatePost.js                                   # Component for creating new posts
+│ ├── Posts.js                                          # Component for fetching, displaying, editing, and deleting posts
+│ ├── Spinner.js                                 # Spinner component for loading states
 │
 ├── /redux
 │ ├── features/
-│ │ └── PostSlice.js # Redux slice for post actions (create, fetch, update, delete)
-│ └── store.js # Redux store configuration
+│ │ └── PostSlice.js                    # Redux slice for post actions (create, fetch, update, delete)
+│ └── store.js                           # Redux store configuration
 │
-├── App.js # Main application file
-├── index.js # Application entry point
+├── App.js                               # Main application file
+├── index.js                              # Application entry point
 └── ...
 
 ## Table of Contents
