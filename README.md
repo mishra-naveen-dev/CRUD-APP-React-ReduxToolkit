@@ -3,22 +3,7 @@
 # CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using React and Redux. The application allows users to manage posts, enabling them to create, view, update, and delete posts easily.
-
-/src
-│
-├── /components
-│ ├── CreatePost.js # Component for creating new posts
-│ ├── Posts.js # Component for fetching, displaying, editing, and deleting posts
-│ ├── Spinner.js # Spinner component for loading states
-│
-├── /redux
-│ ├── features/
-│ │ └── PostSlice.js # Redux slice for post actions (create, fetch, update, delete)
-│ └── store.js # Redux store configuration
-│
-├── App.js # Main application file
-├── index.js # Application entry point
-└── ...
+![Project file structure ](image/Screenshot%20.png)
 
 ## Table of Contents
 
